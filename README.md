@@ -1,2 +1,2 @@
 # ECsite
-ECsite
+phpのスクラッチでECsite作成してみました
